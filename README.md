@@ -6,7 +6,7 @@
 I enjoy:
 * community building
 * learning in public
-* advocating for the mental, emotional, and physical well-being of developers
+* advocating for the well-being of developers
 * problem-solving creative solutions for accessibility <br><br>
 
 🌱 I’m learning:
@@ -24,7 +24,7 @@ I enjoy:
 💬 Ask me:
 * for yoga tips for developers
 * about my fascination with assistive technology 
-* about my obsession with ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
+* about ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
 - 📫 How to reach me: [On my personal site](https://africamincey.netlify.app/)<br><br>
 
 ⚡ Fun fact: One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms, etc).<br><br>
