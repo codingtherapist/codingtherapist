@@ -1,18 +1,26 @@
+![banner header](https://user-images.githubusercontent.com/96845068/180640197-9244eb95-1c57-4758-b9f2-de09644a2fd4.png)
 
-<!--![banner header](https://user-images.githubusercontent.com/96845068/180637683-734f2744-5510-49c0-a184-6ed8ea11460d.png)
-### Hi, I'm Africa!
+## Hi, I'm Africa!
+ ### I am a web developer, occupational therapist, and assistive technology specialist
+I enjoy:
+* community building
+* learning in public
+* advocating for the needs of all
+* problem-solving creative solutions for accessibility 
+
+🌱 I’m learning how to build responsive full stack web applications using Javascript, and how to build RESTful API's using the MERN stack.
+
+🔭 I’m currently working on 
+
+  - A 5-minute stretch break web application for developers and computer users.   This site is being built with <b>HMTL, CSS, and vanilla Javascript</b>. An API to retrieve yoga poses based on body parts will be added using nodejs, express, and mongoDB.
+  - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, MongoDB, and hosted on Netlify</b>.
+
+💬 Ask me for yoga tips, about my fascination with assistive technology or my obsession with ergonomics (standing desks and specialized keyboards/ mice have saved my life!)
+- 📫 How to reach me: [On my personal site](https://africamincey.netlify.app/)
+
+⚡ Fun fact: One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms, etc).
+
+Bonus: Interested in learning beginner-friendly stretches for developers who sit at a computer all day? Check out the first issue of the Biweekly Stretch of the Week Newsletter below and [Subscribe here for more](https://www.getrevue.co/profile/Africakenyah?via=twitter-profile)
 
 
-**codingtherapist/codingtherapist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Newsletter01 (2)](https://user-images.githubusercontent.com/96845068/180640189-4eb9f3e8-e07f-400d-b013-629d16ce6d73.png)
