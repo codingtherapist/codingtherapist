@@ -6,7 +6,7 @@
 I enjoy:
 * community building
 * learning in public
-* advocating for the needs of all
+* advocating for mental, emotional and physical developer well-being
 * problem-solving creative solutions for accessibility 
 
 🌱 I’m learning how to build responsive full stack web applications using Javascript, and how to build RESTful API's using the MERN stack.
