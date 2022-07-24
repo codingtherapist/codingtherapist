@@ -1,6 +1,8 @@
-### Hi there 👋
 
-<!--
+<!--![banner header](https://user-images.githubusercontent.com/96845068/180637683-734f2744-5510-49c0-a184-6ed8ea11460d.png)
+### Hi, I'm Africa!
+
+
 **codingtherapist/codingtherapist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
