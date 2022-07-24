@@ -13,6 +13,8 @@ I enjoy:
 * how to build responsive full stack web applications using Javascript
 * how to build RESTful API's using the MERN stack
 * the Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist&layout=compact"/><br><br>
+
 
 🔭 I’m currently working on 
 
