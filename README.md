@@ -9,6 +9,8 @@ I enjoy:
 * advocating for the well-being of developers
 * problem-solving creative solutions for accessibility <br><br>
 
+📫 How to reach me: [On my personal site](https://africamincey.netlify.app/)<br><br>
+
 🌱 I’m learning:
 * how to build responsive full stack web applications using Javascript
 * how to build RESTful API's using the MERN stack
@@ -25,7 +27,7 @@ I enjoy:
 * for yoga tips for developers
 * about my fascination with assistive technology 
 * about ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
-- 📫 How to reach me: [On my personal site](https://africamincey.netlify.app/)<br><br>
+
 
 ⚡ Fun fact: One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms, etc).<br><br>
 
