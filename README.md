@@ -4,7 +4,6 @@
 ## Hi, I'm Africa!
  ### I am a web developer, occupational therapist, and assistive technology specialist
 I enjoy:
-I enjoy:
 * community building
 * learning in public
 * advocating for the mental, emotional, and physical well-being of developers
