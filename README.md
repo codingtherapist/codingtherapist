@@ -1,4 +1,5 @@
-![banner header](https://user-images.githubusercontent.com/96845068/180640197-9244eb95-1c57-4758-b9f2-de09644a2fd4.png)
+![banner header (1560 × 340 px)](https://user-images.githubusercontent.com/96845068/180640467-03c86df4-c670-4e36-98e9-19370b674c5d.png)
+
 
 ## Hi, I'm Africa!
  ### I am a web developer, occupational therapist, and assistive technology specialist
@@ -23,4 +24,6 @@ I enjoy:
 Bonus: Interested in learning beginner-friendly stretches for developers who sit at a computer all day? Check out the first issue of the Biweekly Stretch of the Week Newsletter below and [Subscribe here for more](https://www.getrevue.co/profile/Africakenyah?via=twitter-profile)
 
 
-![Newsletter01 (2)](https://user-images.githubusercontent.com/96845068/180640189-4eb9f3e8-e07f-400d-b013-629d16ce6d73.png)
+
+
+![Newsletter01 (545 × 1000 px) (1)](https://user-images.githubusercontent.com/96845068/180640332-4f27515b-8159-41a6-8dc1-7481ab92bb93.png)
