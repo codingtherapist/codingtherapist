@@ -9,8 +9,9 @@ I am a web developer, asccessibility specialist and former occupational therapis
 * advocating for the well-being of developers
 * problem-solving creative solutions for accessibility <br><br>
 
-## How to reach me: [On my personal site](https://africamincey.netlify.app/)<br><br>
-## How to view my writing, vlog and projects: [My Blog Site](https:www.africakenyah.com)<br><br>
+## How to reach me: 
+* All of my social links in one place: [My personal site](https://africamincey.netlify.app/)<br><br>
+* My technical writing, vlogs and projects: [My Blog Site](https:www.africakenyah.com)<br><br>
 
 ## 🌱 I’m learning:
 * how to build responsive full stack web applications using Javascript
