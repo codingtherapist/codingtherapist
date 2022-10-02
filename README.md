@@ -14,7 +14,7 @@ I am a web developer, accessibility specialist and former occupational therapist
 * All of my social links in one place: [My personal site](https://africamincey.netlify.app/)<br><br>
 * My technical writing, vlogs and projects: [My Blog Site](https:www.africakenyah.com)<br><br>
 
-##🌱 My skills:
+## 🌱 My skills:
 * Building responsive full stack web applications using Javascript and Nodejs
 * Build RESTful API's using the MERN stack
 * Robust knowledge of Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
