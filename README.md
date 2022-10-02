@@ -1,8 +1,8 @@
-![banner header (1560 × 340 px)](https://user-images.githubusercontent.com/96845068/180640467-03c86df4-c670-4e36-98e9-19370b674c5d.png)
+![banner of author of page smiling with text "Africa the coding therapist, full stack web developemnt, web accessibility, yoga therapy" ](https://user-images.githubusercontent.com/96845068/180640467-03c86df4-c670-4e36-98e9-19370b674c5d.png)
 
 # Hi, I'm Africa! 
 I am a web developer, accessibility specialist and former occupational therapist.<br>
-![floaty](https://user-images.githubusercontent.com/96845068/193475763-1ba697c8-28d7-4870-ae8b-ad0889506398.gif)<br><br>
+![cartoon of author with arms raised infront of laptop](https://user-images.githubusercontent.com/96845068/193475763-1ba697c8-28d7-4870-ae8b-ad0889506398.gif)<br><br>
 
 ## I enjoy:
 * community building
@@ -23,7 +23,9 @@ I am a web developer, accessibility specialist and former occupational therapist
 
 ## 🔭 I’m currently working on 
 
-  - A 5-minute stretch break web application for developers and computer users.   This site is being built with <b>HMTL, CSS, and vanilla Javascript</b>. An API to retrieve yoga poses based on body parts will be added using nodejs, express, and mongoDB.
+  - A 5-minute stretch break web application for developers and computer users.   This site is being built with <b>HMTL, CSS, Javascript, Nodejs and MongoDB</b>. An API to retrieve yoga poses based on body parts from a mongodb database with photo hosting from Cloudinary will be added to optimize project.
+  - ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)
+
   - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, and MongoDB</b>.<br><br>
 
 ## 💬 Ask me about:
@@ -41,4 +43,4 @@ Interested in learning beginner-friendly stretches for developers or web accessi
 
 
 
-![Newsletter01 (545 × 1000 px) (1)](https://user-images.githubusercontent.com/96845068/180640332-4f27515b-8159-41a6-8dc1-7481ab92bb93.png)
+![screen shot of newsletter showing pictures of stretches the author is demosntrating](https://user-images.githubusercontent.com/96845068/180640332-4f27515b-8159-41a6-8dc1-7481ab92bb93.png)
