@@ -1,8 +1,9 @@
 ![banner header (1560 × 340 px)](https://user-images.githubusercontent.com/96845068/180640467-03c86df4-c670-4e36-98e9-19370b674c5d.png)
 
-
 # Hi, I'm Africa! 
-I am a web developer, asccessibility specialist and former occupational therapist.
+I am a web developer, accessibility specialist and former occupational therapist.<br>
+![floaty](https://user-images.githubusercontent.com/96845068/193475763-1ba697c8-28d7-4870-ae8b-ad0889506398.gif)<br><br>
+
 ## I enjoy:
 * community building
 * learning in public
@@ -13,10 +14,10 @@ I am a web developer, asccessibility specialist and former occupational therapis
 * All of my social links in one place: [My personal site](https://africamincey.netlify.app/)<br><br>
 * My technical writing, vlogs and projects: [My Blog Site](https:www.africakenyah.com)<br><br>
 
-## 🌱 I’m learning:
-* how to build responsive full stack web applications using Javascript
-* how to build RESTful API's using the MERN stack
-* the Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
+##🌱 My skills:
+* Building responsive full stack web applications using Javascript and Nodejs
+* Build RESTful API's using the MERN stack
+* Robust knowledge of Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist&layout=compact"/><br><br>
 
 
