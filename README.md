@@ -18,7 +18,7 @@ I am a web developer, accessibility specialist and former occupational therapist
 * Building responsive full stack web applications using Javascript and Nodejs
 * Build RESTful API's using the MERN stack
 * Robust knowledge of Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist&layout=compact"/><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist"/><br><br>
 
 
 ## 🔭 I’m currently working on 
