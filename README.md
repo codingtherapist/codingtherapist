@@ -21,14 +21,14 @@ I am a web developer, yoga teacher and former occupational therapist.<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist"/><br><br>
 
 ## 📬 How to reach me:
-* [My personal portfolio site](www.africamincey.com)
-* [My blog site](www.africakenyah.com)
+* [My personal portfolio site](https://www.africamincey.com)
+* [My blog site](https://www.africakenyah.com)
 * [Youtube](https://www.youtube.com/channel/UCiaMi-uLijoOEPT0lfaQCvw) 
 
 
 ## 🔭 I’m currently working on 
 
-  - [A 5-minute stretch break web application for developers and computer users](www.yourstretchbreak.com).   This site is being built with <b>HMTL, CSS, Javascript, Nodejs and MongoDB</b>. An API to retrieve yoga poses based on body parts from a mongodb database with photo hosting from Cloudinary will be added to optimize project.
+  - [A 5-minute stretch break web application for developers and computer users](https://www.yourstretchbreak.com).   This site is being built with <b>HMTL, CSS, Javascript, Nodejs and MongoDB</b>. An API to retrieve yoga poses based on body parts from a mongodb database with photo hosting from Cloudinary will be added to optimize project.
   - ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)
 
   - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, and MongoDB</b>.<br><br>
