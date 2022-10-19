@@ -36,10 +36,3 @@ I am a web developer, yoga teacher and former occupational therapist.<br>
 ## ⚡ Fun fact:
 One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms and web pages, etc).<br><br>
 
-## Bonus:
-Interested in learning beginner-friendly stretches for developers or web accessibility tips? Check out the first issue of the Biweekly Stretch of the Week Newsletter below and [Subscribe here for more](https://www.getrevue.co/profile/Africakenyah?via=twitter-profile)
-
-
-
-
-![screen shot of newsletter showing pictures of stretches the author is demosntrating](https://user-images.githubusercontent.com/96845068/180640332-4f27515b-8159-41a6-8dc1-7481ab92bb93.png)
