@@ -6,11 +6,12 @@ I am a web developer, yoga teacher and former occupational therapist.<br>
 ![cartoon of author with arms raised infront of laptop](https://user-images.githubusercontent.com/96845068/193475763-1ba697c8-28d7-4870-ae8b-ad0889506398.gif)<br><br>
 
 ## I enjoy:
-* community building
-* learning and building in public
-* advocating for the well-being of developers
-* problem-solving creative solutions for accessibility
-* creating beautiful websites and tinkering with code <br><br>
+
+* Learning and building in public
+* Community building
+* Advocating for the well-being of developers
+* Problem-solving creative solutions for accessibility
+* Creating beautiful websites and tinkering with code <br><br>
 
 ## 🌱 My skills:
 * Building responsive full stack web applications using Javascript, React, Nodejs, MongoDB
@@ -18,6 +19,11 @@ I am a web developer, yoga teacher and former occupational therapist.<br>
 * Technical copy writing and content creation
 * Robust knowledge of Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist"/><br><br>
+
+## 📬 How to reach me:
+* [My personal portfolio site](www.africamincey.com)
+* [My blog site](www.africakenyah.com)
+* [Youtube](https://www.youtube.com/channel/UCiaMi-uLijoOEPT0lfaQCvw) 
 
 
 ## 🔭 I’m currently working on 
@@ -28,9 +34,9 @@ I am a web developer, yoga teacher and former occupational therapist.<br>
   - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, and MongoDB</b>.<br><br>
 
 ## 💬 Ask me about:
-* yoga tips and stretch breaks for developers
-* web accessibility and assistive technology 
-* ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
+* Yoga tips and stretch breaks for developers
+* Web accessibility and assistive technology 
+* Ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
 
 
 ## ⚡ Fun fact:
