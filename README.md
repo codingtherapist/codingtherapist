@@ -28,10 +28,15 @@ I am a web developer, yoga teacher and former occupational therapist.<br>
 
 ## 🔭 I’m currently working on 
 
-  - [A 5-minute stretch break web application for developers and computer users](https://www.yourstretchbreak.com).   This site is being built with <b>HMTL, CSS, Javascript, Nodejs and MongoDB</b>. An API to retrieve yoga poses based on body parts from a mongodb database with photo hosting from Cloudinary will be added to optimize project.
-  - ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)
+  - A 5-minute stretch break web application for developers and computer users.   
+    -  This site is being built with <b>HMTL, CSS, Javascript, Nodejs and MongoDB</b>. An API to retrieve yoga poses based on body parts from a mongodb database with photo hosting from Cloudinary will be added to optimize project.<br>
+   [Check out Your Stretch Break](https://www.yourstretchbreak.com)<br>
+ ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)<br>
 
-  - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, and MongoDB</b>.<br><br>
+
+  - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. 
+    - This site is currently under construction an d being built with <b> MongoDB, ExpressJS, React, and NodeJS</b>.<br><br>
+  - Interested in my other projects? [Check out my portfolio!](https://www.africakenyah.com/porfolio)
 
 ## 💬 Ask me about:
 * Yoga tips and stretch breaks for developers
