@@ -35,7 +35,7 @@ I am a web developer, yoga teacher and former occupational therapist.<br>
 
 
   - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. 
-    - This site is currently under construction an d being built with <b> MongoDB, ExpressJS, React, and NodeJS</b>.<br><br>
+    - This site is currently under construction and is being built with <b> MongoDB, ExpressJS, React, and NodeJS</b>.<br><br>
   - Interested in my other projects? [Check out my portfolio!](https://www.africakenyah.com/porfolio)
 
 ## 💬 Ask me about:
