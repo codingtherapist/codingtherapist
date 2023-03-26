@@ -2,20 +2,17 @@
 ![banner of author of page smiling with text "Africa the coding therapist, full stack web developemnt, web accessibility, yoga therapy" ](https://user-images.githubusercontent.com/96845068/196580163-451d7b0b-c86b-4233-8f16-eb3647fee701.png)
 
 # Hi, I'm Africa! 
-I am a web developer, yoga teacher and former occupational therapist.<br>
+I am a accessibility engineer, yoga teacher and occupational therapist.<br>
 ![cartoon of author with arms raised infront of laptop](https://user-images.githubusercontent.com/96845068/193475763-1ba697c8-28d7-4870-ae8b-ad0889506398.gif)<br><br>
 
 ## I enjoy:
 
-* Learning and building in public
-* Community building
-* Advocating for the well-being of developers
-* Problem-solving creative solutions for accessibility
+* Learning and building in public with an emphasis on web accessibility
+* Yoga!
 * Creating beautiful websites and tinkering with code <br><br>
 
 ## 🌱 My skills:
 * Building responsive full stack web applications using Javascript, React, Nodejs, MongoDB
-* Building RESTful API's using the MERN stack
 * Technical copy writing and content creation
 * Robust knowledge of Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist"/><br><br>
@@ -41,9 +38,8 @@ I am a web developer, yoga teacher and former occupational therapist.<br>
 ## 💬 Ask me about:
 * Yoga tips and stretch breaks for developers
 * Web accessibility and assistive technology 
-* Ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
 
 
-## ⚡ Fun fact:
-One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms and web pages, etc).<br><br>
+
+
 
