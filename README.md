@@ -1,44 +1,41 @@
 
-![banner of author of page smiling with text "Africa the coding therapist, full stack web developemnt, web accessibility, yoga therapy" ](https://user-images.githubusercontent.com/96845068/196580163-451d7b0b-c86b-4233-8f16-eb3647fee701.png)
+![banner of author of page smiling with text "Africa Kenyah, accessibility engineer, yoga therapist" ](https://user-images.githubusercontent.com/96845068/196580163-451d7b0b-c86b-4233-8f16-eb3647fee701.png)
 
 # Hi, I'm Africa! 
-I am a accessibility engineer, yoga teacher and occupational therapist.<br>
-![cartoon of author with arms raised infront of laptop](https://user-images.githubusercontent.com/96845068/193475763-1ba697c8-28d7-4870-ae8b-ad0889506398.gif)<br><br>
+I am an accessibility engineer and former occupational therapist. 
+I like to share my journey and what I'm learning on [Twitch](https://www.twitch.tv/africakenyah) and [Youtube](https://www.youtube.com/channel/UCiaMi-uLijoOEPT0lfaQCvw) sometimes.<br>
 
 ## I enjoy:
 
-* Learning and building in public with an emphasis on web accessibility
-* Yoga!
-* Creating beautiful websites and tinkering with code <br><br>
+* Learning and building in public 
+* Speaking about digital accessibility topics
+* Yoga in nature <br><br>
 
 ## 🌱 My skills:
-* Building responsive full stack web applications using Javascript, React, Nodejs, MongoDB
+* Assistive technology and accessibility auditing
+* Teaching and clinical experience
 * Technical copy writing and content creation
-* Robust knowledge of Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
+* Robust knowledge of Section 508 and the Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist"/><br><br>
 
 ## 📬 How to reach me:
 * [My personal portfolio site](https://www.africamincey.com)
-* [My blog site](https://www.africakenyah.com)
 * [Youtube](https://www.youtube.com/channel/UCiaMi-uLijoOEPT0lfaQCvw) 
 
 
 ## 🔭 I’m currently working on 
 
-  - A 5-minute stretch break web application for developers and computer users.   
-    -  This site is being built with <b>HMTL, CSS, Javascript, Nodejs and MongoDB</b>. An API to retrieve yoga poses based on body parts from a mongodb database with photo hosting from Cloudinary will be added to optimize project.<br>
-   [Check out Your Stretch Break](https://www.yourstretchbreak.com)<br>
- ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)<br>
-
-
-  - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. 
-    - This site is currently under construction and is being built with <b> MongoDB, ExpressJS, React, and NodeJS</b>.<br><br>
-  - Interested in my other projects? [Check out my portfolio!](https://www.africakenyah.com/porfolio)
+* [The Web Accessibility Study Group](https://github.com/codingtherapist/webAccessibilityStudyGroup)
+  -   A study group for individuals who would like support and community as they learn web accessibility topics
+ 
+* [Your Stretch Break](https://www.yourstretchbreak.com/)
+  - A 5 minute stretch break with chair yoga exercises and a countdown clock
+  - This is a work in progress and not currently fully accessible at this time
+    
 
 ## 💬 Ask me about:
-* Yoga tips and stretch breaks for developers
-* Web accessibility and assistive technology 
-
+* Yoga tips and stretch breaks for tech workers
+* How you can start building a more accessible web
 
 
 
